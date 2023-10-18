@@ -1,5 +1,5 @@
 
-  @import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap');
 
 
 *{
@@ -12,7 +12,7 @@
 }
 
 body{
-    background: #28c16f;
+    background: #46012f;
     overflow: hidden;
 }
 .header{
